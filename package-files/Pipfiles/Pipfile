@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 requests = "*"
-awscli = "==1.18.23"
+awscli = "==1.19.112"
 flask = "==1.1.2"
 flask-sqlalchemy = "==2.4.4"
 molecule = "==3.0.4"
